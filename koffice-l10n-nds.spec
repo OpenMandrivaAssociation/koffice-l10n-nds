@@ -1,7 +1,7 @@
 Name: koffice-l10n-nds
 Version: 2.1.91
 Release: %mkrel 1
-Summary: Language files for KOffice Low
+Summary: Language files for KOffice Lower Saxon
 Group: System/Internationalization
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License: GPLv2+
@@ -15,7 +15,7 @@ Requires: koffice-core
 Provides: koffice-l10n
 
 %description 
-Provides Low translations for KOffice.
+Provides Lower Saxon translations for KOffice.
 
 %files 
 %defattr(-,root,root,-)
